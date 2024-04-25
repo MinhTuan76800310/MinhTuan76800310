@@ -1,5 +1,5 @@
 ### Hi, my name is Tuan, welcome to my github !
-- 🌱 I’m currently learning Machine Learning and Computer Vision to apply my major IOT.
+- 🌱 I’m currently learning Machine Learning and Computer Vision to apply to my major IOT.
 - 📫 How to reach me:     Gmail: tuan090611@gmail.com
                           Facebook: https://www.facebook.com/ban.tim.toi.a/
                           Linkedin: https://www.linkedin.com/in/tu%E1%BA%A5n-ph%E1%BA%A1m-529531269/
