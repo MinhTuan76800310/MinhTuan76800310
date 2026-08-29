@@ -1,22 +1,19 @@
-# Hi, I'm Tuan! Welcome to my GitHub!
+# Hi, I'm Tuan 👋
 
-- 🌱 I’m currently diving into **Machine Learning** and **Computer Vision** to enhance my knowledge and skills in **IoT**.
-- 📫 Feel free to reach out to me:
-  - **Gmail**: [tuan090611@gmail.com](mailto:tuan090611@gmail.com)
-  - **Facebook**: [ban.tim.toi.a](https://www.facebook.com/ban.tim.toi.a/)
-  - **LinkedIn**: [tuanpham1103](https://www.linkedin.com/in/tuanpham1103/)
+Software engineer interested in:
 
-<!--
-**MinhTuan76800310/MinhTuan76800310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Knowledge Graphs & Semantic Web
+* AI Agents & Agentic Software Engineering
+* Software-Defined Vehicles
+  
+Currently, I'm working on projects around **Knowledge Graphs**, **Agent Factory**, and **SDV**, with a focus on understanding how things work from first principles and turning that understanding into practical systems.
 
-Here are some ideas to get you started:
+I mostly work with:
 
-- 🔭 I’m currently working on ...
+`Python` · `C++` · `Rust` · `RDF` · `SPARQL` · `OWL` · `Neo4j` · `Docker` · 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### Connect
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email: [tuan090611@gmail.com](mailto:tuan090611@gmail.com)
+* LinkedIn: [tuanpham1103](https://www.linkedin.com/in/tuanpham1103/)
+* GitHub: [MinhTuan76800310](https://github.com/MinhTuan76800310)
