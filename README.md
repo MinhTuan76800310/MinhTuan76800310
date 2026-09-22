@@ -2,11 +2,14 @@
 
 Software engineer interested in:
 
-* Knowledge Graphs & Semantic Web
-* AI Agents & Agentic Software Engineering
 * Software-Defined Vehicles
+* AI Agents & Agentic Software Engineering
+* Voice Processing & FPGA
+* Knowledge Graphs & Semantic Web
+
+
   
-Currently, I'm working on projects around **Knowledge Graphs**, **Agent Factory**, and **SDV**, with a focus on understanding how things work from first principles and turning that understanding into practical systems.
+Currently, I'm working on projects around **FPGA**, **Knowledge Graphs**, **Agent Factory**, and **SDV**, with a focus on understanding how things work from first principles and turning that understanding into practical systems.
 
 I mostly work with:
 
